@@ -1,0 +1,110 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-purchase@^1.0.5",
+        "scope": null,
+        "escapedName": "nativescript-purchase",
+        "name": "nativescript-purchase",
+        "rawSpec": "^1.0.5",
+        "spec": ">=1.0.5 <2.0.0",
+        "type": "range"
+      },
+      "C:\\Users\\Personal\\Documents\\TutorialesNS\\AppPurchases"
+    ]
+  ],
+  "_from": "nativescript-purchase@>=1.0.5 <2.0.0",
+  "_id": "nativescript-purchase@1.0.5",
+  "_inCache": true,
+  "_location": "/nativescript-purchase",
+  "_nodeVersion": "6.10.3",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-purchase-1.0.5.tgz_1507405439383_0.8986637198831886"
+  },
+  "_npmUser": {
+    "name": "pstaev",
+    "email": "peter@tangrasoft.com"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-purchase@^1.0.5",
+    "scope": null,
+    "escapedName": "nativescript-purchase",
+    "name": "nativescript-purchase",
+    "rawSpec": "^1.0.5",
+    "spec": ">=1.0.5 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-purchase/-/nativescript-purchase-1.0.5.tgz",
+  "_shasum": "37558b9cc6922de53e0a6c119cea749d1c649a97",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-purchase@^1.0.5",
+  "_where": "C:\\Users\\Personal\\Documents\\TutorialesNS\\AppPurchases",
+  "author": {
+    "name": "Peter Staev",
+    "email": "peter@tangrasoft.com"
+  },
+  "bugs": {
+    "url": "https://github.com/PeterStaev/nativescript-purchase/issues"
+  },
+  "contributors": [
+    {
+      "name": "Sven Ziegler",
+      "url": "https://github.com/svzi"
+    }
+  ],
+  "dependencies": {},
+  "description": "A NativeScript plugin for making in-app purchases",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "37558b9cc6922de53e0a6c119cea749d1c649a97",
+    "tarball": "https://registry.npmjs.org/nativescript-purchase/-/nativescript-purchase-1.0.5.tgz"
+  },
+  "homepage": "https://github.com/PeterStaev/nativescript-purchase#readme",
+  "keywords": [
+    "NativeScript",
+    "iap",
+    "in-app purchase",
+    "in-app billing",
+    "vending",
+    "payment",
+    "subscription",
+    "tangra"
+  ],
+  "license": "Apache-2.0",
+  "main": "purchase",
+  "maintainers": [
+    {
+      "name": "pstaev",
+      "email": "peter@tangrasoft.com"
+    }
+  ],
+  "name": "nativescript-purchase",
+  "nativescript": {
+    "platforms": {
+      "ios": "2.3.0",
+      "android": "2.3.0"
+    },
+    "plugin": {
+      "nan": "true",
+      "pan": "true",
+      "core3": "true",
+      "category": "Utilities"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterStaev/nativescript-purchase.git"
+  },
+  "scripts": {},
+  "typings": "nativescript-purchase.d.ts",
+  "version": "1.0.5"
+}
